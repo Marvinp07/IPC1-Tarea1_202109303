@@ -1,0 +1,21 @@
+body{
+    margin: auto;
+}
+.Título{
+    width: 75%;
+    margin: 30PX auto 50PX;
+    justify-content: center;
+    align-items: center;
+}
+
+.Tablas{
+    margin: 30Px auto;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    background-color: darkslateblue;
+    color: white;
+    text-align: center
+}
+
